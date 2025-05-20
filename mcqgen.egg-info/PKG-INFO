@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgen
+Version: 0.0.1
+Author: mohammed feroz
+Author-email: ferozmohammed2004@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
